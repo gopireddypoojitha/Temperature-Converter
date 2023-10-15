@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Temperature Converter</title>
+  <link rel="stylesheet" href="temp12.css">
+</head>
+<body>
+  <h1>Temperature Converter</h1>
+  <div id="converter">
+    <input type="number" id="fahrenheit" placeholder="Fahrenheit">
+    <input type="number" id="celsius" placeholder="Celsius">
+    <button id="convert">Convert</button>
+  </div>
+  <script src="temp12.js"></script>
+</body>
+</html>
